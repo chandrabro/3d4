@@ -1,0 +1,3 @@
+This project is licensed under the GNU General Public License v3.0 or later
+(https://www.gnu.org/licenses/gpl-3.0.html), because it bundles eSpeak-NG (GPL-3.0-or-later)
+via the "espeak-ng" npm package. Three.js, mp4-muxer and webm-muxer are MIT licensed.
